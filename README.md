@@ -1,19 +1,118 @@
-# React + Vite
+# 🚀 Systems-Focused Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A production-oriented personal portfolio designed to showcase full-stack systems built with architectural intent.  
+This platform highlights scalable backend design, AI-integrated workflows, and performance-focused frontend engineering.
 
-Currently, two official plugins are available:
+Rather than presenting isolated features, the portfolio reflects structured system thinking and modular engineering practices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🧠 Engineering Philosophy
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio represents my approach to building software:
 
-## Expanding the ESLint configuration
+- Modular backend architecture  
+- Clean separation of concerns  
+- Role-based access control  
+- Scalable REST API design  
+- Performance-optimized frontend rendering  
+- Production-oriented system design  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-## Project Overview
-## Project Overview
-A modern portfolio.
+The focus is on building systems that simulate real-world engineering constraints — not just demo applications.
+
+---
+
+## 📌 Featured Systems
+
+### 🔹 Smart Interview Simulator (SIS)
+AI-powered interview simulation platform featuring role-based dashboards, structured session workflows, automated evaluation insights, and performance analytics.
+
+### 🔹 Expense Analytics & Financial Tracking System
+Full-stack financial management platform with secure authentication, transaction aggregation logic, and real-time analytics dashboards.
+
+### 🔹 URL Uptime Monitoring System
+Lightweight backend monitoring service designed to track uptime, HTTP status codes, and system reliability.
+
+### 🔹 Cryptoverse
+Responsive cryptocurrency dashboard integrating third-party APIs for real-time market data visualization.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Vite
+- JavaScript
+- Responsive UI Architecture
+
+### Backend (Project-Level Integration)
+- Node.js
+- Express
+- MongoDB
+- REST APIs
+- JWT Authentication
+
+### Core Focus Areas
+- Scalable system design  
+- API architecture  
+- AI integration  
+- Performance optimization  
+
+---
+
+## ⚙️ Local Development Setup
+
+Clone the repository:
+
+```bash
+git clone <your-repo-url>
+cd <repo-name>
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📈 Future Enhancements
+
+- Advanced performance optimization strategies  
+- Improved Lighthouse accessibility & SEO metrics  
+- Caching strategies for heavy data rendering  
+- Enhanced scalability for larger project showcases  
+
+---
+
+## 🤝 Open to Opportunities
+
+I am currently open to:
+
+- Software Engineering Internships  
+- Backend / Full-Stack Roles  
+- System Design & AI-driven Platform Projects  
+
+If you're building something challenging or looking for a systems-focused developer, feel free to connect.
+
+---
+
+## 📬 Contact
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/manikxcsai/  
+- 💻 GitHub: https://github.com/maniktyagi04  
+- 📧 Email: manik.tyagi@adypu.edu.in  
