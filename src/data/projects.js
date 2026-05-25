@@ -20,7 +20,7 @@ export const projects = [
       "Dynamic analytics & performance visualization",
       "Scalable REST API architecture"
     ],
-    productionUrl: "https://frontend-delta-plum-87.vercel.app/login",
+    productionUrl: "sis-interview-simulator-frontend.vercel.app/",
     sourceUrl: "https://github.com/maniktyagi04/Smart_Interview_Simulator"
   },
   {
